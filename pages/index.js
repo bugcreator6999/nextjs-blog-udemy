@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
       <section>
         <p className={utilStyle.headingMd}>
           私はNext.js初心者で学習真っ最中です。 / TypeScriptも学習真っ最中です。
-          / JavaScriptエンジニアを目指しています。
+          / JavaScriptエンジニアを目指しています。/初めてデプロイしました。
         </p>
       </section>
 
